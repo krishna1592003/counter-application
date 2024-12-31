@@ -1,0 +1,58 @@
+.bg-background{
+
+
+    background-color: white;
+    height:100vh;
+}
+.heading{
+
+    color:black;
+    font-size:60px;
+    font-family:Roboto;
+    font-weight:bold;
+
+
+}
+.paragraph{
+
+    font-size:80px;
+    font-family:Roboto;
+    font-weight:bold;
+
+    color:black
+}
+.buttonstyledecrement{
+
+
+    color:rgba(211, 32, 41, 0.979);
+    font-size:23px;
+    font-family:Roboto;
+    border-radius:10px;
+    width:120px;
+    height:60px;
+    margin-left: 10px;
+}
+.buttonstylereset{
+
+
+    color:rgba(0, 0, 0, 0.979);
+    font-size:25px;
+    font-family:Roboto;
+    border-radius:10px;
+    width:160px;
+    height:60px;
+    margin-left: 10px;
+    
+}
+.buttonstyleincrement{
+
+
+    color:rgba(35, 204, 77, 0.979);
+    font-size:25px;
+    font-family:Roboto;
+    border-radius:10px;
+    width:120px;
+    height:60px;
+    margin-left: 10px;
+    
+}

@@ -1,0 +1,51 @@
+/////Counter Application
+This is a simple web-based counter application that allows users to increment, decrement, or reset a counter value. The counter's color changes dynamically based on its value (positive, negative, or zero).
+
+///////Features
+Increment Counter: Increase the counter value by 1.
+Decrement Counter: Decrease the counter value by 1.
+Reset Counter: Reset the counter value to 0.
+Dynamic Color Change: Counter value color changes to:
+Green for positive values.
+Red for negative values.
+Black for zero.
+
+
+
+//////Technology Stack
+HTML5
+CSS3
+JavaScript
+Bootstrap 4.5.2 (for responsive design)
+Setup Instructions
+Clone the repository.
+
+bash
+Copy code
+git clone https://github.com/your-username/counter-application.git
+Navigate to the project directory.
+
+bash
+Copy code
+cd counter-application
+Open the index.html file in your web browser to use the application.
+
+File Structure
+bash
+Copy code
+counter-application/  
+├── index.html       # HTML structure of the application  
+├── style.css        # CSS for styling the application  
+├── script.js        # JavaScript logic for counter functionality  
+└── README.md        # Documentation file  
+Code Explanation
+HTML (index.html)
+Provides the structure for the counter application.
+Uses Bootstrap for layout and styling.
+CSS (style.css)
+Styles the counter, buttons, and background.
+Adds visual feedback for different counter values.
+JavaScript (script.js)
+Implements the counter logic.
+Handles Increment, Decrement, and Reset button clicks.
+Dynamically updates the counter value and its color based on conditions.
